@@ -1,0 +1,23 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "za.co.healthip.mobile.bestmedmember.qa",
+      "sha256_cert_fingerprints": [
+        "62:9E:A7:0C:E6:10:67:A3:CF:76:49:4B:E2:86:7A:6B:CD:63:BC:6D:A8:EA:16:32:56:EE:74:15:ED:8A:2D:04",
+        "83:9D:9B:0F:70:3E:DE:61:C4:E4:57:79:96:38:0F:0E:C6:F1:F9:DD:0A:55:EC:DA:A4:F4:5E:51:5B:20:C4:17"
+      ]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "za.co.tucana.mobile.bestmedmember.qa",
+      "sha256_cert_fingerprints": [
+        "55:1C:A0:C2:E2:06:DB:9E:B6:2A:AE:04:53:86:10:F0:CC:97:ED:A8:56:27:CB:80:A8:C7:12:47:B7:AA:26:9B"
+      ]
+    }
+  }
+]
